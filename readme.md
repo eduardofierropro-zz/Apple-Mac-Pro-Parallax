@@ -1,11 +1,12 @@
 ## Descripción
-Imitación de la web de Instagram para Ordenador en un directo de Twitch (https://www.twitch.tv/eduardofierropro)
-No ha sido probado para tener soporte crossbrowsing. Es un código de referencia para mi vídeo en [Youtube](https://www.youtube.com/watch?v=8yUGkNZhN5A)
+Imitación del efecto de scroll de la web de Apple para mi vídeo en [Youtube](https://www.youtube.com/watch?v=8yUGkNZhN5A)
 
-Si te ha gustado o te ha servido coméntalo en un directo o sígueme por Twitch y Youtube 😊
+Este código no ha sido probado para tener soporte crossbrowsing ni está pensado para tener una performance perfecta.
+
+Si te ha gustado o te ha servido este código coméntalo en un directo, sígueme por Twitch o Youtube 😊
 
 ## Tiempo de programación ⏰
-Este ejemplo ha sido programado en 3 horas mientras charlábamos y comentábamos cosas en Twitch (https://www.twitch.tv/eduardofierropro)
+Este ejemplo ha sido en los 15 minutos de grabación del vídeo mientras explicaba.
 
 ## Uso 🚀
 ¡Mira el código, modifícalo y disfruta!
