@@ -1,6 +1,7 @@
 ## Descripción
 Imitación de la web de Instagram para Ordenador en un directo de Twitch (https://www.twitch.tv/eduardofierropro)
-No ha sido probado para tener soporte crossbrowsing.
+No ha sido probado para tener soporte crossbrowsing. Es un código de referencia para mi vídeo en [Youtube](https://www.youtube.com/watch?v=8yUGkNZhN5A)
+
 Si te ha gustado o te ha servido coméntalo en un directo o sígueme por Twitch y Youtube 😊
 
 ## Tiempo de programación ⏰
