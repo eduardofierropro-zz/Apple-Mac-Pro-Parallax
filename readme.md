@@ -1,5 +1,5 @@
 ## Descripción
-Imitación del efecto de scroll de la web de Apple para mi vídeo en [Youtube](https://www.youtube.com/watch?v=8yUGkNZhN5A)
+Imitación del efecto de scroll de la web de Apple para mi vídeo en Youtube: [https://www.youtube.com/watch?v=8yUGkNZhN5A](https://www.youtube.com/watch?v=8yUGkNZhN5A)
 
 Este código no ha sido probado para tener soporte crossbrowsing ni está pensado para tener una performance perfecta.
 
@@ -16,9 +16,14 @@ Este ejemplo ha sido en los 15 minutos de grabación del vídeo mientras explica
 * [SASS]
 * [VanillaJS]
 
-## Enlaces 📖
-* [Twitch] (https://www.twitch.tv/eduardofierropro)
-* [Youtube] (https://www.youtube.com/eduardofierropro)
+## Autor ✒️
+**Eduardo Fierro** - *Documentación y trabajo inicial*
+* [Youtube](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
+* [Twitch](https://twitch.tv/eduardofierropro)
+* [TikTok](https://www.tiktok.com/@eduardofierro.pro?)
+* [Github](https://github.com/eduardofierropro)
+* [Instagram](https://instagram.com/eduardofierro.pro)
+* [Twitter](https://twitter.com/edfierropro)
 
 ## Autores ✒️
 * **Eduardo Fierro** - *Documentación y trabajo inicial* - [eduardofierropro](https://github.com/eduardofierropro)
