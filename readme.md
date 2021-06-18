@@ -25,6 +25,11 @@ Este ejemplo ha sido en los 15 minutos de grabación del vídeo mientras explica
 * [Instagram](https://instagram.com/eduardofierro.pro)
 * [Twitter](https://twitter.com/edfierropro)
 
+## Master/Cursos donde sor profesor 📚
+Soy profesor en la Escuela Trazos donde impartimos Cursos y Másters sobre desarrollo web con una bolsa de trabajo con Alta Empleabilidad. ¡Píde información sobre los cursos donde soy profesor desde este enlace!
+
+👉[https://trazos.net/contacto-eduardofierro](https://trazos.net/contacto-eduardofierro)
+
 ## Autores ✒️
 * **Eduardo Fierro** - *Documentación y trabajo inicial* - [eduardofierropro](https://github.com/eduardofierropro)
 
